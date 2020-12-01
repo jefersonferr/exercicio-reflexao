@@ -3,11 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.inatel.cdg</groupId>
-    <artifactId>exercicio-reflexao</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>exercicio-reflexao-jeferson</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0.0-SNAPSHOT</version>
 
-    <name>exercicio-reflexao</name>
-    <description>Add project description here</description>
+    <name>exercicio-reflexao-jeferson</name>
+    <description>Seleção Bolsista FAPESP - Projeto: Um Estudo sobre o Impacto de Anotações de Código na Evolução de Software</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
